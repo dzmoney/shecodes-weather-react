@@ -1,0 +1,10 @@
+.degree-type {
+  position: relative;
+  /* right: 5px; */
+  /* top: -20px; */
+}
+
+.celcius {
+  position: relative;
+  right: -20px;
+}

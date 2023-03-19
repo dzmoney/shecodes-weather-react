@@ -1,0 +1,15 @@
+ul {
+  padding: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+.current-date-time {
+  font-size: 32px;
+}
+
+.custom-card {
+  max-width: 200px !important;
+}
