@@ -17,7 +17,9 @@ export default function App() {
           </div>
         </div>
         <div className="end-tag">
-          <a href="https://github.com/dzmoney/Weather-App">Open-source code</a>{" "}
+          <a href="https://github.com/dzmoney/shecodes-weather-react">
+            Open-source code
+          </a>{" "}
           by Deanna Tyndall
         </div>
       </div>
